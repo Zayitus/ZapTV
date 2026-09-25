@@ -41,13 +41,13 @@ AR = {
 
 # Premium / cable: bloqueados aunque aparezcan en alguna lista
 #BLOCK_IDS = {"TyCSports.ar", "TyCSportsUSA.ar", "DisneyChannelLatinAmerica.ar",
-             "DisneyJrLatinAmerica.ar", "ElGourmet.ar", "FilmArts.ar",
-             "EuropaEuropa.ar", "SonyChannel.ar", "Volver.ar",
-             "GarageTVLatinAmerica.ar", "TelefeInternacional.ar"}
+            # "DisneyJrLatinAmerica.ar", "ElGourmet.ar", "FilmArts.ar",
+            # "EuropaEuropa.ar", "SonyChannel.ar", "Volver.ar",
+            # "GarageTVLatinAmerica.ar", "TelefeInternacional.ar"}
 
 # Canales que no aportan a las categorías pedidas (o falsos positivos por nombre)
-SKIP_NAMES = ["teen mom", "ink master", "revry", "draftkings", "sala de emergencias",
-              "paranormal", "jojo", "cine de autor", "star trek", "mystery science theater",
+SKIP_NAMES = ["teen mom", "revry", "draftkings", "sala de emergencias",
+              "paranormal", "jojo", "cine de autor", "mystery science theater",
               "wild 'n out", "wild wild west", "wild west tv", "supernatural", "funniest home",
               "hometown drama", "ultratumba", "johnny carson"]
 
