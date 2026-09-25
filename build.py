@@ -40,7 +40,7 @@ AR = {
 }
 
 # Premium / cable: bloqueados aunque aparezcan en alguna lista
-BLOCK_IDS = {"TyCSports.ar", "TyCSportsUSA.ar", "DisneyChannelLatinAmerica.ar",
+#BLOCK_IDS = {"TyCSports.ar", "TyCSportsUSA.ar", "DisneyChannelLatinAmerica.ar",
              "DisneyJrLatinAmerica.ar", "ElGourmet.ar", "FilmArts.ar",
              "EuropaEuropa.ar", "SonyChannel.ar", "Volver.ar",
              "GarageTVLatinAmerica.ar", "TelefeInternacional.ar"}
